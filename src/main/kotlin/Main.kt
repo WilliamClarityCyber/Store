@@ -256,8 +256,3 @@ fun main(args: Array<String>) {
     } while(!quit)
 
 }
-//yo it's me fatou :D'
-// 10/10!!
-//it works?? It works!! - Fatou
-//Spencer is here!
-//Hello!
